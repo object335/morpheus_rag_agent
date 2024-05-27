@@ -1,0 +1,12 @@
+transformers
+llama-index==0.9.22
+sentencepiece==0.1.99
+llama-cpp-python
+huggingface-hub
+pypdf
+llama-index-readers-file
+protobuf
+huggingface-hub
+flask==2.2.2
+Werkzeug==2.2.2
+flask-cors
